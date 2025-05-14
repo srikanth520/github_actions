@@ -26,4 +26,4 @@ jobs:
 
       - name: test
         run: |
-        python -m py_compile main.py
+          python -m py_compile main.py
